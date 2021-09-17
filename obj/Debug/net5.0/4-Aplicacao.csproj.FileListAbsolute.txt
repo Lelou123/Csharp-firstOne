@@ -1,0 +1,16 @@
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao.deps.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao.runtimeconfig.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao.runtimeconfig.dev.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/ref/4-Aplicacao.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/bin/Debug/net5.0/4-Aplicacao.pdb
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.csproj.AssemblyReference.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.AssemblyInfoInputs.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.AssemblyInfo.cs
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.csproj.CoreCompileInputs.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/ref/4-Aplicacao.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.pdb
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/1- Prim_dotnet/4-Aplicacao/obj/Debug/net5.0/4-Aplicacao.genruntimeconfig.cache
